@@ -4,8 +4,10 @@
 *                   @softwarerecipes @vagheshp
 
 # charts
-/charts/device-plugin-operator/  @mythi @poussa
-/charts/gpu-device-plugin/  @mythi @poussa
-/charts/qat-device-plugin/ @mythi @poussa
-/charts/sgx-device-plugin/ @mythi @poussa
-
+/charts/device-plugin-operator/  @mythi @poussa @tkatila
+/charts/gpu-device-plugin/  @mythi @poussa @tkatila
+/charts/qat-device-plugin/ @mythi @poussa @tkatila
+/charts/sgx-device-plugin/ @mythi @poussa @tkatila
+/charts/iaa-device-plugin/ @mythi @poussa @tkatila
+/charts/dsa-device-plugin/ @mythi @poussa @tkatila
+/charts/npu-device-plugin/ @mythi @poussa @tkatila
